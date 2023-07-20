@@ -17,7 +17,10 @@ Cette même expérience que j'ai pu mettre à profit dans différents projets te
 
  Je suis disponible pour vos missions freelance ! 
 
-## Me contacter   
+## Me contacter 📝
+
+[Via mon site](https://itetsulatable.com/)
+
 <div align="center">
 <a href="https://linkedin.com/in/alexandrebdry" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
